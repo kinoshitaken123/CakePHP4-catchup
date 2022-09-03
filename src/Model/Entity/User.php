@@ -1,31 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kinoshitaken123 
-asterisk-lab
-/
-CakePHP
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-CakePHP/code-002/src/Model/Entity/User.php /
-@asterisk-lab
-asterisk-lab CakePHP第５回～第８回までのソース
-Latest commit a9b7c7f on 2 Jun 2021
- History
- 1 contributor
-49 lines (46 sloc)  1.18 KB
-
 <?php
+declare(strict_types=1);
+
 namespace App\Model\Entity;
 
 use Cake\ORM\Entity;
